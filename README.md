@@ -22,6 +22,8 @@ We provide **unofficial** Armbian images for evaluation purposes only. This is n
 
 Armbian users are strongly recommended to use [Armbian official image](https://www.armbian.com/rockpi4/).
 
+Manjaro users can visit [here](https://github.com/manjaro-arm/rockpi4b-images).
+
 Please visit [our Wiki](https://wiki.radxa.com/Rock4/downloads) for more download options.
 
 ## Where can I download the Radxa image?
